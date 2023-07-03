@@ -1,97 +1,63 @@
-- title: General Information
-  type: map
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Da Chen
+#    - name: Languages
+#      value: Chinese, English, Southern Min(local dialect in southern Fujian and Taiwan.)
+#
+
+
+- title: Working Experience
+  type: time_table
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - title: Lecturer/Assistant Professor
+      institution: Department of Computer Science, University of Bath, Bath, UK
+      year: 2022 - present
+
+    - title: Postdoctor Researcher
+      institution: Turing Lab & AAIG Lab, Alibaba Group, Beijing, China
+      year: 2018-2022
+      description:
+        - Postdoc program in Alibaba Group with The Institute of Automation, Chinese Academy of Sciences
+        - Joint projects with Tsinghua University, Zhejiang University, Xidian University
+        - Co-supervised intern projects with University of Adelaide, Xidian University, Tsinghua University.
+
+    - title: PhD. Research Intern
+      institution: Foundry, London, UK
+      year: 2017
+      description:
+        - Mentors - Dr. Jonathan Starck and Dr. Dan Ring
+        - Apply deep learning on Image and Video processing for film visual effects
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Department of Computer Science, University of Bath, Bath, United Kingdom
+      year: 2014-2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Major in Visual Computing
+        - Supervised by Prof. Peter Hall and Dr.Matthew Brown
+        - Member in OAK(Outdoor Asset Capture) project
+
+    - title: Master
+      institution: Halmstad University, Halmstad, Sweden
+      year: 2011-2013
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Embedded and Intelligent Systems
+        - Supervised by Prof. Josef Bigun
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Bachelor of Science
+      institution: Xidian University, Xi'an, China
+      year: 2007-2011
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Major in Optics/Optical Science
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Professional Activities
+  type: map
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Reviewer
+      value: CVPR, ICCV, ECCV, AAAI, IJCAI, BMVC
+    - name: Programme Committee
+      value: CVMP, IJCAIw, WACVw

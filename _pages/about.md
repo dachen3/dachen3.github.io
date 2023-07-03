@@ -1,26 +1,31 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Lecturer(Assistant Professor), <a href='https://www.bath.ac.uk/departments/department-of-computer-science/'>Department of Computer Science</a>, <a href='https://www.bath.ac.uk/'>University of Bath</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Wessex House</p>
+    <p>University of Bath</p>
+    <p>Claverton Down, BA2 7AY</p>
+    <p>Bath, UK</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Dr. Da Chen** is currently an Assistant Professor/Lecturer in the AI & Visual Computing Group at the University of Bath. Before that, he was a Postdoctoral Researcher & Algorithm Engineer in the Turing Lab & AAIG, Alibaba Group. He obtained his PhD degree in Computer Vision and Visual Computing from the University of Bath (UK, 2018). Prior to that, he got his Master's degree in Embedded and Intelligent Systems from Halmstad University (Joint with Volvo Cars, Sweden, 2013) and his Bachelor's degree in Optic Science from Xidian University (China, 2011), respectively. For more details, please refer to [About]({{site.baseurl}}/cv/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### <small>Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+General Computer Vision and Machine Learning tasks, especially tasks related to few-shot learning, incremental learning, multimodal learning, video understanding, etc.
+
+#### <small>Info.
+
+**PhD studentship available.** Interested candidates please contact Dr. Chen directly.

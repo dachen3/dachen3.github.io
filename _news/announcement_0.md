@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting a new position in University of Bath as an Assistant Professor/Lecturer.
+I have joined the University of Bath as an Assistant Professor/Lecturer.

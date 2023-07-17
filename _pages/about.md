@@ -28,4 +28,4 @@ General Computer Vision and Machine Learning tasks, especially tasks related to 
 
 #### <small>Info.
 
-**PhD studentship available.** Interested candidates please contact Dr. Chen directly.
+**PhD studentship available.** Interested candidates please contact Dr. Chen directly via email: <a href='mailto:da.chen(at)bath.edu'>da.chen(at)bath.edu</a>.

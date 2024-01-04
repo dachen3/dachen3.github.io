@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Da Chen is lecturing and was a teaching assistant in the following courses
+description: Da Chen is lecturing in the following courses
 nav: true
 nav_order: 4
 ---
@@ -23,18 +23,24 @@ nav_order: 4
 Image Processing and Low-Level Vision, Image Formation, Linear Filtering, Gradients, Scale, Image Features, Correlation, Matching, Image Warping, Sampling and Aliasing,
 Mathematical methods for Visual Computing, Linear and Projective Transforms, Convolution, Fourier Transforms, Nyquist Theorem.
 
---------------------------------
-<h6 class="ml ml-md" style="font-size: 1.6rem;">Teaching Assistant</h6>
+[//]: # (--------------------------------)
 
+[//]: # (<h6 class="ml ml-md" style="font-size: 1.6rem;">Teaching Assistant</h6>)
 
-CM20220: Fundamentals of Pattern Analysis
+[//]: # ()
+[//]: # ()
+[//]: # (CM20220: Fundamentals of Pattern Analysis)
 
-CM20215: Software systems development
+[//]: # ()
+[//]: # (CM20215: Software systems development)
 
-CM20257: Integrated Project
+[//]: # ()
+[//]: # (CM20257: Integrated Project)
 
-CM10251: Computing as a Science and Engineering Discipline
+[//]: # ()
+[//]: # (CM10251: Computing as a Science and Engineering Discipline)
 
-
---------------------------------
+[//]: # ()
+[//]: # ()
+[//]: # (--------------------------------)
 

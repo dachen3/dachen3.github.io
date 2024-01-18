@@ -58,6 +58,6 @@
   type: map
   contents:
     - name: Reviewer
-      value: CVPR, ICCV, ECCV, AAAI, IJCAI, BMVC
+      value: TPAMI, CVPR, ICCV, ECCV, AAAI, IJCAI, BMVC
     - name: Programme Committee
       value: CVMP, IJCAIw, WACVw

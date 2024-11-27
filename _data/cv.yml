@@ -60,4 +60,4 @@
     - name: Reviewer
       value: TPAMI, CVPR, ICCV, ECCV, AAAI, IJCAI, BMVC
     - name: Programme Committee
-      value: CVMP, IJCAIw, WACVw
+      value: CVMP, IJCAIw, WACVw, AAAI

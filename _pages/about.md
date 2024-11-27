@@ -28,7 +28,7 @@ General Computer Vision and Machine Learning tasks, especially tasks related to 
 
 #### <small>Info.
 
-**PhD studentship**(University Scholarship, CSC) **available**. 
+**PhD studentship**(University international student Scholarship, CSC) **available**. 
 
 **Visiting Researcher**,**Remote Intern** or any other kinds of collaboration are all very welcome.
 

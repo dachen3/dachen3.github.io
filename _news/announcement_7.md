@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on Out-of-Distribution Object Detection is accepted by ICCV 2023
+One paper on Out-of-Distribution Object Detection is accepted by <a href='https://iccv2023.thecvf.com/'>ICCV 2023</a>.

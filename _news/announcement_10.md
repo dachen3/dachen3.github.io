@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on A Benchmark for OOD Object Detectors is accepted by ICCV 2023
+One paper on A Benchmark for OOD Object Detectors is accepted by <a href='https://iccv2023.thecvf.com/'>ICCV 2023</a>.

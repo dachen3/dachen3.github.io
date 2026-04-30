@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Dr. Da Chen** is currently an Assistant Professor/Lecturer in the AI & Visual Computing Group at the University of Bath. Before that, he was a Postdoctoral Researcher & Algorithm Engineer in the Turing Lab & AAIG, Alibaba Group. He obtained his PhD degree in Computer Vision and Visual Computing from the University of Bath (UK, 2018). Prior to that, he got his Master's degree in Embedded and Intelligent Systems from Halmstad University (Joint with Volvo Cars, Sweden, 2013) and his Bachelor's degree in Optic Science from Xidian University (China, 2011), respectively. For more details, please refer to [About]({{site.baseurl}}/cv/).
+**Dr. Da Chen** is currently an Assistant Professor/Lecturer in the AI & Visual Intelligent Group at the University of Bath. Before that, he was a Researcher in the Turing Lab & AAIG, Alibaba Group. He obtained his PhD degree in Computer Vision and Visual Computing from the University of Bath (UK). Prior to that, he got his Master's degree in Embedded and Intelligent Systems from Halmstad University (Joint with Volvo Cars, Sweden) and his Bachelor's degree in Optic Science from Xidian University, respectively. For more details, please refer to [About]({{site.baseurl}}/cv/).
 
 #### <small>Research Interests
 
